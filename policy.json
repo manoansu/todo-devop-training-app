@@ -1,0 +1,8 @@
+{
+  "name": "gh-repo",
+  "issuer": "https://token.actions.githubusercontent.com",
+  "subject": "repo:manoansu/todo-devop-training-app:ref:refs/heads/main",
+  "audiences": [
+    "api://AzureADTokenExchange"
+  ]
+}
